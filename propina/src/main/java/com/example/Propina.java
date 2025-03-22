@@ -2,7 +2,7 @@ package com.example;
 
 import java.util.Scanner;
 
-public class MainPropina {
+public class Propina {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
